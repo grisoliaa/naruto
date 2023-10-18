@@ -1,0 +1,53 @@
+* {
+    font-family: Arial;
+    margin: 0;
+}
+header {
+    padding: 30px;           
+    background-color: #f08030;
+    color:white;
+    text-align: center;
+}
+img {
+
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+
+    
+}
+nav {
+    background-color: #f08030;
+    margin-top: 10px;
+    text-align: center;
+}
+ a {
+color: white;
+margin-right: 20px;
+}
+section {
+border:1px solid #ccc;
+margin: 20px;
+padding: 20px;
+}
+ .personagens {
+
+}
+ .aldeias {
+ 
+ }
+ 
+ div {
+    text-align: center;
+    margin-top: 16px;
+ }
+ 
+ p {
+    margin-top: 8px;
+ }
+ footer{
+    background-color: #f08030;
+    text-align: center;
+    color: white;
+    padding: 20px;
+ }
